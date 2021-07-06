@@ -1,4 +1,14 @@
 - commits:
+    - subject: Delete CODEOWNERS
+      hash: f98e4467bf15eabf83b31d94a44ffa3bfa61d8ac
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Vipul Gupta
+  version: 4.2.2
+  date: 2021-07-06T08:29:18.366Z
+- commits:
     - subject: update to Go v1.14.6
       hash: f332a04ef89f460ce6ba2c884be49ade6aa477bd
       body: ''
